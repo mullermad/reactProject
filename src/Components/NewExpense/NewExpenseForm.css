@@ -1,0 +1,20 @@
+.newexpense-form-controls{
+      
+    display: flex;
+}
+.newexpense-form-control input{
+    height: 30px;
+    margin: 2rem;
+    width: 200px;
+    
+}
+.newexpense-form-action button{
+    background-color: green;
+    color: white;
+    height: 39px;
+    width: 120px;
+    border-radius: 10px ;
+    
+   
+   
+}
